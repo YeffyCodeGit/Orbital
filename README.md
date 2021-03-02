@@ -1,5 +1,5 @@
 <h1 align="center" style="position: relative;">
-    Orbital
+    <img src="Orbital.png" alt="OrbitalLogo">
 </h1>
 <h3 align="center">A fast, reliable and easy to use and game engine.</h3>
 
