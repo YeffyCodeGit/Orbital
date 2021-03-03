@@ -1,7 +1,7 @@
 <h1 align="center" style="position: relative;">
     <img src="OrbitalMain.png" alt="OrbitalLogo">
 </h1>
-<h3 align="center">A fast, reliable and easy to use and game engine.</h3>
+<h3 align="center">A under development game engine, written in Java.</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
