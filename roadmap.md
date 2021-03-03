@@ -33,7 +33,7 @@ of game engine development and I may change my goals based on what I want to lea
      <td>Not Implemented</td>
    </tr>
    <tr>
-    <td>Native C# Scripting support</td>
+    <td>C# Scripting support</td>
     <td>Not Implemented</td>
    </tr>
 </table>
