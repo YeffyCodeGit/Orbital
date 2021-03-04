@@ -7,7 +7,7 @@ of game engine development and I may change my goals based on what I want to lea
 <ul>
   <li>Create a game window</li>
   <li>Input system</li>
-  <li>Delta Time and a Scene Manager and Scene System (not available in the public repo, im still cleaning out the rough edges, ill add it in the next commit most probably)</li>
+  <li>Delta Time and a Scene Manager and Scene System</li>
 </ul>
 
 <h3>Milestones I want to hit</h3>
