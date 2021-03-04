@@ -38,4 +38,4 @@ of game engine development and I may change my goals based on what I want to lea
    </tr>
 </table>
 
-<p>It seems quite tame, but again, this is a learning project, and currently, these are the topics im intrested in for now.</p>
+<p>It seems quite tame, but again, this is a learning project, and currently, these are the topics im interested in for now.</p>
