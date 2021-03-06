@@ -5,8 +5,8 @@ import static org.lwjgl.glfw.GLFW.GLFW_RELEASE;
 
 public class KeyListener {
 
-    private static KeyListener instance = null;
-    private boolean keyPressed[] = new boolean[350];
+    private static KeyListener instance = null; // Singelton to make sure there is only one instance of the KeyListner class
+    private boolean keyPressed[] = new boolean[350]; // A list of booleans, one for each button on the keyboard
 
     private KeyListener() {
 
@@ -21,6 +21,7 @@ public class KeyListener {
     }
 
 
+    // Callback to get which key is being pressed
     public static void keyCallback(long window, int key, int scancode, int action, int mods) {
         if(action == GLFW_PRESS) {
             get().keyPressed[key] = true;
@@ -29,6 +30,7 @@ public class KeyListener {
         }
     }
 
+    // Checking if a key is pressed or not
     public static boolean keyIsPressed(int keyCode) {
             return get().keyPressed[keyCode];
     }
