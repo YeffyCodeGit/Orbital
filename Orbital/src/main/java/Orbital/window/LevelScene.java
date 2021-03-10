@@ -13,4 +13,9 @@ public class LevelScene extends Scene{
     public void update(float dt) {
 
     }
+
+    @Override
+    public void init() {
+
+    }
 }

@@ -39,10 +39,12 @@ public class Window {
     public static void changeScene(int newScene) {
         switch (newScene) {
             case 0:
-                currentScene = new LevelEditorScene();  // In case the index is 0, the currentScene should be a level editor scene
+                currentScene = new LevelEditorScene();
+                currentScene.init();
                 break;
             case 1:
-                currentScene = new LevelScene();  // In case the index is 1, make a new scene and set that equal to the current scene
+                currentScene = new LevelScene();
+                currentScene.init();
                 break;
             default:
                 assert false : "[ORBITAL ERROR DEBUGGER] Unknown scene : '" + newScene + "."; // Throw a error

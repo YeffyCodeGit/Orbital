@@ -1,5 +1,4 @@
 // Imports
-
 import Orbital.window.Window;
 
 public class Main {
