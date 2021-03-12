@@ -8,6 +8,7 @@ of game engine development and I may change my goals based on what I want to lea
   <li>Create a game window</li>
   <li>Input system</li>
   <li>Delta Time and a Scene Manager and Scene System</li>
+  <li>Basic 2D rendering</li>
 </ul>
 
 <h3>Milestones I want to hit</h3>
@@ -18,7 +19,7 @@ of game engine development and I may change my goals based on what I want to lea
    </tr>
    <tr>
      <td>2D Rendering</td>
-     <td>Not Implemented</td>
+     <td>Implemented</td>
    </tr>
    <tr>
      <td>3D Rendering</td>
