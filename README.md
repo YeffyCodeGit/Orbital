@@ -25,7 +25,7 @@
     <li>Run the `Main.java` file.</li>
     <li>Enjoy!</li>
 </ol>
-<p>Do note that Orbital is in its early development stages, so there isn't really much you can do with it. At the time of writing, you can render a window and get mouse input. If you want to make any sort of game using Orbital currently, you need to do all the logic in the loop function of the window class. </p>
+<p>Do note that Orbital is in its early development stages, so there isn't really much you can do with it. At the time of writing, you can render a window and simple 2D graphics, get user input and use a camera system (kinda). If you would like to add any functionality, you can add in the `update` function in the LevelEditorScene.java file, without editing the already existing code there. I suggest you make your own function and call that in update, and place the logic inside that function.</p>
 
 <h2 align="center">Help</h2>
-<p>If you have any inquiries or want any help about the engine, feel free to contact me on discord! My user tag is #6799 and my username is Yeff-Chan. You can also visit the support server, which is linked at the top of this readme.</p>
+<p>If you have any inquiries or want any help about the engine, feel free to contact me on discord! My user tag is #5084 and my username is Yeff. You can also visit the support server, which is linked at the top of this readme.</p>
