@@ -1,6 +1,10 @@
 package Orbital.window;
 
+import Orbital.camera.Camera;
+
 public abstract class Scene {
+
+    protected Camera camera;
 
     public Scene() {
 
