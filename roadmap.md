@@ -9,6 +9,7 @@ of game engine development and I may change my goals based on what I want to lea
   <li>Input system</li>
   <li>Delta Time and a Scene Manager and Scene System</li>
   <li>Basic 2D rendering</li>
+  <li>Cameras</li>
 </ul>
 
 <h3>Milestones I want to hit</h3>
