@@ -3,10 +3,7 @@
 </h1>
 <h3 align="center">A under development game engine, written in Java.</h3>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-reason.svg)](https://forthebadge.com)
+<h2>This repository is outdated. Please refer to the new Orbital repository for the new version of the Orbital Game Engine</h2>
 
 <p align="center">
     <a href="https://github.com/YeffyCodeGit/Orbital/blob/main/LICENSE">License</a> •
